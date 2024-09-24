@@ -11,8 +11,8 @@ if num1==5:#se usa "if" para que el usuario pueda adivinar que numero se esta pe
 else:
         print("No estoy pensando en este numero intentalo otra vez")#te manda un mensaje si no adivinaste el numero
 
-        ![image](https://github.com/user-attachments/assets/6b584579-445e-479d-81be-ece0953ef983)
+![image](https://github.com/user-attachments/assets/6b584579-445e-479d-81be-ece0953ef983)
 
-        ![image](https://github.com/user-attachments/assets/2bdb68f6-c6b5-4d7b-ae1f-72afeed508c9)
+![image](https://github.com/user-attachments/assets/2bdb68f6-c6b5-4d7b-ae1f-72afeed508c9)
 
 
